@@ -1,0 +1,16 @@
+{
+  "name": "simplecache",
+  "version": "1.0.0",
+  "description": "SimpleCache Class",
+  "main": "SimpleCache.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "rvansant2",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
